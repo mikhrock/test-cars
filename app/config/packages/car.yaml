@@ -1,0 +1,7 @@
+car:
+  engine: "Ford Sigma"
+  body: "Hatchback"
+  transmission: "Manual"
+  interior: "Gray"
+  color: "Black"
+  options: "None"
